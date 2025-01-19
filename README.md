@@ -1,9 +1,5 @@
 # Battleship Game
 
-Welcome to the thrilling world of Battleship! Prepare to embark on an epic naval battle against a formidable enemy fleet. Your strategic skills and precision shots will determine the outcome of this intense showdown!
-
----
-
 ## Project Overview
 
 Battleship is a strategy game where players engage in a naval battle on an nxn game board. The size of the board (n) is an odd number between 5 and 20, ensuring a dynamic and challenging experience. Players deploy ships, take turns firing at each other’s fleets, and strive to outmaneuver their opponent to achieve victory.
